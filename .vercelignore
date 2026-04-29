@@ -1,0 +1,6 @@
+Alembic/
+.git
+.env.development
+.gitignore
+README.md
+*.md
