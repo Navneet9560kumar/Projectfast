@@ -4,7 +4,7 @@ import {
   getDaysUntilPurge,
   getPurgeDate,
   getStatusColor,
-} from "../utils/formatters";
+} from "../utils/Formatters";
 import clsx from "clsx";
 
 export function UserCard({
